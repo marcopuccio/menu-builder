@@ -15,7 +15,7 @@ setup(name='menubuilder',
       include_package_data=True,
       license = 'MIT',
       install_requires=[
-          'django>=1.9',
+          'django==1.9.8',
       ],
       zip_safe=False,
       author='marsxn',
