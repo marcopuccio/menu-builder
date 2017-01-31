@@ -8,7 +8,7 @@
 ### Installation
 It can be installed via pip running the next command.
 ```
-pip install git+https://github.com/marsxn/menu-builder.git
+pip install git+https://github.com/marcopuccio/menu-builder.git
 ```
 
 After installation, you must include it in your ```settings.py```. You can add it via the app config file, or the appname. 
@@ -35,3 +35,7 @@ Once you have installed this package, you'll be able to create and manage new it
 ```
 {% create_menu 'MENU_SLUG' %}
 ```
+
+**Author**
+
+[Marco Puccio](http://marsxn.io)
